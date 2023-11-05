@@ -1,17 +1,3 @@
-<!--
-**Ashik-Rahman100/Ashik-Rahman100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 
@@ -79,6 +65,40 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashik-Rahman100&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Rahman100&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+<!
+### :writing_hand: Blog Posts :
+-->
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Genres-Agency
+- 🌱 I’m currently learning Redux
+- 🤔 I’m looking for help with learn web development
+- 💬 Ask me about Front-end Web development
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ashik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-rahman100/)
+- ⚡ Fun fact: Coding,Cricket,Football
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
