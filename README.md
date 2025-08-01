@@ -31,7 +31,7 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
-- :telescope: I’m working as a front-end develper at GenRes-Agency for building web applications.
+- :telescope: I’m working as a Web Develper at GenRes-Agency for building Web Applications.
 - :seedling: Exploring Modern Tools and Technologies.
 
 - :zap: In my free time, Learn new Technologies and read tech articles.
@@ -71,11 +71,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Genres-Agency
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning Devops
 - 🤔 I’m looking for help with learn web development
 - 💬 Ask me about Front-end Web development
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ashik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-rahman100/)
-- ⚡ Fun fact: Coding,Cricket,Football
+- ⚡ Fun fact: Coding,playing,Traveling
 
 
 
