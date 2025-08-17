@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, Learn new tools and technologies and read tech articles,gaming, cooking,travelling, playing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ashik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-rahman100/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ashik-blue?style=flat&logo=Linkedin&logoColor=white)](https://wa.me/+8801766535515)
 
 ---
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Devops
 - 🤔 I’m looking for help with learn web development
 - 💬 Ask me about Web Development
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ashik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-rahman100/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ashik-blue?style=flat&logo=Linkedin&logoColor=white)](https://wa.me/+8801766535515)
 - ⚡ Fun fact: Coding,playing,Traveling
 
 
