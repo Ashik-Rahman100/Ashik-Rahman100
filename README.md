@@ -31,7 +31,7 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
-- :telescope: I’m working as a Full Stack Web Develper at GenRes-Agency for building and maintanance Web Applications.
+- :telescope: I’m working as a Full Stack Web Develper at luminar-technology for building and maintanance Web Applications.
 - :seedling: Exploring Modern Tools and Technologies.
 
 - :zap: In my free time, Learn new tools and technologies and read tech articles,gaming, cooking,travelling, playing.
@@ -70,7 +70,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Genres-Agency
+- 🔭 I’m currently working on luminar-technology
 - 🌱 I’m currently learning Devops
 - 🤔 I’m looking for help with learn web development
 - 💬 Ask me about Web Development
